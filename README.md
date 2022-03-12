@@ -1,5 +1,7 @@
 # Attempting to cross compile foundry to M1 compatible binary from an intel mac
 
+**Note -- does not appear successful after testing. Still playing around though.**
+
 ### Build the normal docker image and x86 binary
 1. `docker build -t foundry-compile .`
 2. `mkdir target`
