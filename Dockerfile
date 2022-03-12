@@ -1,4 +1,4 @@
-## Build foundry within a dockerfile we we can manipulate platform
+## Build foundry within a dockerfile so we can attempt manipulate platform
 FROM rust
 
 WORKDIR /opt
